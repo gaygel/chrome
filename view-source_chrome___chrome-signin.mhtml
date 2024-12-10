@@ -1,0 +1,80 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: chrome://chrome-signin/
+Subject: 
+Date: Tue, 10 Dec 2024 11:17:39 -0500
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--xy431XzUXAvmOpWX4NFRiKfCemC1UV9epKJSrxYtop----"
+
+
+------MultipartBoundary--xy431XzUXAvmOpWX4NFRiKfCemC1UV9epKJSrxYtop----
+Content-Type: text/html
+Content-ID: <frame-5B8338B442C590690514732768E1BA3F@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: chrome://chrome-signin/
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3DUTF-8"><meta name=3D"color-scheme" content=3D"light dark"></head><body><=
+div class=3D"line-gutter-backdrop"></div><form autocomplete=3D"off"><label =
+class=3D"line-wrap-control">Line wrap<input type=3D"checkbox" aria-label=3D=
+"Line wrap"></label></form><table><tbody><tr><td class=3D"line-number" valu=
+e=3D"1"></td><td class=3D"line-content"><span class=3D"html-doctype">&lt;!d=
+octype html&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"2"><=
+/td><td class=3D"line-content"><span class=3D"html-tag">&lt;html <span clas=
+s=3D"html-attribute-name">dir</span>=3D"<span class=3D"html-attribute-value=
+">ltr</span>" <span class=3D"html-attribute-name">lang</span>=3D"<span clas=
+s=3D"html-attribute-value">en</span>"&gt;</span></td></tr><tr><td class=3D"=
+line-number" value=3D"3"></td><td class=3D"line-content"><span class=3D"htm=
+l-tag">&lt;head&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"=
+4"></td><td class=3D"line-content"><span class=3D"html-tag">&lt;meta <span =
+class=3D"html-attribute-name">charset</span>=3D"<span class=3D"html-attribu=
+te-value">utf-8</span>"&gt;</span></td></tr><tr><td class=3D"line-number" v=
+alue=3D"5"></td><td class=3D"line-content"><span class=3D"html-tag">&lt;tit=
+le&gt;</span>Sign in to add a Google account<span class=3D"html-tag">&lt;/t=
+itle&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"6"></td><td=
+ class=3D"line-content"><span class=3D"html-tag">&lt;link <span class=3D"ht=
+ml-attribute-name">rel</span>=3D"<span class=3D"html-attribute-value">style=
+sheet</span>" <span class=3D"html-attribute-name">href</span>=3D"<a class=
+=3D"html-attribute-value html-resource-link" target=3D"_blank" href=3D"chro=
+me://resources/css/text_defaults_md.css" rel=3D"noreferrer noopener">chrome=
+://resources/css/text_defaults_md.css</a>"&gt;</span></td></tr><tr><td clas=
+s=3D"line-number" value=3D"7"></td><td class=3D"line-content"><span class=
+=3D"html-tag">&lt;link <span class=3D"html-attribute-name">rel</span>=3D"<s=
+pan class=3D"html-attribute-value">stylesheet</span>" <span class=3D"html-a=
+ttribute-name">href</span>=3D"<a class=3D"html-attribute-value html-resourc=
+e-link" target=3D"_blank" href=3D"chrome://resources/chromeos/colors/cros_s=
+tyles.css" rel=3D"noreferrer noopener">chrome://resources/chromeos/colors/c=
+ros_styles.css</a>"&gt;</span></td></tr><tr><td class=3D"line-number" value=
+=3D"8"></td><td class=3D"line-content"><span class=3D"html-tag">&lt;/head&g=
+t;</span></td></tr><tr><td class=3D"line-number" value=3D"9"></td><td class=
+=3D"line-content"><span class=3D"html-tag">&lt;style&gt;</span></td></tr><t=
+r><td class=3D"line-number" value=3D"10"></td><td class=3D"line-content">  =
+html,</td></tr><tr><td class=3D"line-number" value=3D"11"></td><td class=3D=
+"line-content">  body {</td></tr><tr><td class=3D"line-number" value=3D"12"=
+></td><td class=3D"line-content">    height: 100%;</td></tr><tr><td class=
+=3D"line-number" value=3D"13"></td><td class=3D"line-content">    margin: 0=
+;</td></tr><tr><td class=3D"line-number" value=3D"14"></td><td class=3D"lin=
+e-content">    overflow: hidden;</td></tr><tr><td class=3D"line-number" val=
+ue=3D"15"></td><td class=3D"line-content">    padding: 0;</td></tr><tr><td =
+class=3D"line-number" value=3D"16"></td><td class=3D"line-content">  }</td>=
+</tr><tr><td class=3D"line-number" value=3D"17"></td><td class=3D"line-cont=
+ent"><span class=3D"html-tag">&lt;/style&gt;</span></td></tr><tr><td class=
+=3D"line-number" value=3D"18"></td><td class=3D"line-content"><span class=
+=3D"html-tag">&lt;body&gt;</span></td></tr><tr><td class=3D"line-number" va=
+lue=3D"19"></td><td class=3D"line-content">  <span class=3D"html-tag">&lt;i=
+nline-login-app&gt;</span><span class=3D"html-tag">&lt;/inline-login-app&gt=
+;</span></td></tr><tr><td class=3D"line-number" value=3D"20"></td><td class=
+=3D"line-content">  <span class=3D"html-tag">&lt;script <span class=3D"html=
+-attribute-name">type</span>=3D"<span class=3D"html-attribute-value">module=
+</span>" <span class=3D"html-attribute-name">src</span>=3D"<a class=3D"html=
+-attribute-value html-resource-link" target=3D"_blank" href=3D"chrome://chr=
+ome-signin/inline_login_app.js" rel=3D"noreferrer noopener">inline_login_ap=
+p.js</a>"&gt;</span><span class=3D"html-tag">&lt;/script&gt;</span></td></t=
+r><tr><td class=3D"line-number" value=3D"21"></td><td class=3D"line-content=
+"><span class=3D"html-tag">&lt;/body&gt;</span></td></tr><tr><td class=3D"l=
+ine-number" value=3D"22"></td><td class=3D"line-content"><span class=3D"htm=
+l-tag">&lt;/html&gt;</span></td></tr><tr><td class=3D"line-number" value=3D=
+"23"></td><td class=3D"line-content"><span class=3D"html-end-of-file"></spa=
+n></td></tr></tbody></table></body></html>
+------MultipartBoundary--xy431XzUXAvmOpWX4NFRiKfCemC1UV9epKJSrxYtop------
